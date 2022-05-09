@@ -18,8 +18,33 @@
     margin-bottom: 16px;
 }
 
-.palestrante.caixas {
-    padding: 5px 5px 5px auto;
-    background-color: white;
+.caixas {
     text-align: center;
+}
+
+.palestrante-infos {
+    background: white;
+    display: inline-block;
+    margin: 0 16px 32px 0;
+    padding: 18px;
+    border-radius: 8px;
+    width:220px;
+    vertical-align: top;
+}
+
+.palestrante-imagem {
+    border-radius: 50%;
+}
+
+.palestrante-nome {
+    margin-top: 10px;
+}
+
+.palestrante-bio {
+    margin-top: 14px;
+    font-weight: bold;
+}
+
+.palestrante-tema {
+    margin-top: 14px;
 }
