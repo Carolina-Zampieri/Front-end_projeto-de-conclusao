@@ -46,17 +46,6 @@
     margin-top: 8px;
 }
 
-.botao {
-    font-size: 20px;
-    padding: 25px 50px;
-    background: #47A3A4;
-    display: inline-block;
-    border-radius: 5px;
-    margin-top: 12px;
-    text-decoration: none;
-    color:white;
-}
-
 @media(min-width: 714px) {
     .textos-titulo {
      font-size: 28px;   

@@ -1,0 +1,14 @@
+.formulario {
+    padding-top: 32px;
+}
+
+.formulario-titulo {
+    font-size: 32px;
+    text-align: center;
+    color: #EF7247;
+    text-transform: uppercase;
+}
+
+.formulario-botao {
+    text-align: center;
+}

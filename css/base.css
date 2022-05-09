@@ -2,3 +2,39 @@
     width: 96%;
     margin: 0 auto;
 }
+
+.campo {
+    margin-bottom: 16px;
+}
+
+.campo-label {
+    display: block;
+}
+
+.formulario-textos {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+
+.campo-input {
+    display: block;
+    width: 100%;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 10px #47A3A4;
+}
+
+.botao {
+    font-size: 20px;
+    padding: 25px 50px;
+    background: #47A3A4;
+    display: inline-block;
+    border-radius: 5px;
+    margin-top: 12px;
+    text-decoration: none;
+    color:white;
+}
