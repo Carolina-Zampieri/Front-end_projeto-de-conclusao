@@ -1,0 +1,20 @@
+.painel {
+    text-align: center;
+    padding: 15px 0;
+}
+
+.titulo-painel {
+    font-size: 2.5rem;
+}
+
+.chamada-painel {
+    font-size: 1.6rem;
+    margin-top: 15px;
+}
+
+.texto-painel {
+    font-size: 1.2rem;
+    margin-top: 15px;
+    line-height: 35px;
+}
+
