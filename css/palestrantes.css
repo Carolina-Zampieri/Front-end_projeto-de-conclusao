@@ -1,0 +1,25 @@
+.palestrantes {
+    background-color: #EF7247;
+}
+
+.palestrantes-sobre {
+    text-align: center;
+    color: white;
+}
+
+.titulo-palestrantes {
+    font-size: 42px;
+    padding: 40px 0 16px 0;
+    text-transform: uppercase;
+}
+
+.chamada-palestrantes {
+    font-size: 35px;
+    margin-bottom: 16px;
+}
+
+.palestrante.caixas {
+    padding: 5px 5px 5px auto;
+    background-color: white;
+    text-align: center;
+}
